@@ -1,6 +1,6 @@
-# 👋 Welcome to My GitHub Profile!
+# 👋 Hi, I'm Tiationg!
 
-I'm Tiationg, a passionate Software Development Engineer with a drive to create exceptional applications that make a difference. With a strong track record of hands-on experience, my focus revolves around architecting scalable and efficient solutions that deliver tangible results.
+A passionate Software Development Engineer with a drive to create exceptional applications that make a difference. With a strong track record of hands-on experience, my focus revolves around architecting scalable and efficient solutions that deliver tangible results.
 
 ## 🚀 Experience
 
@@ -17,5 +17,3 @@ Beyond coding, I am a strong advocate for user-centric design. My background in 
 ## 🤝 Let's Connect
 
 Fueled by unending curiosity, I'm always eager to connect with like-minded professionals who share a passion for innovation and excellence. Whether it's discussing the latest tech trends or collaborating on exciting projects, I invite you to reach out. Let's build connections and explore the limitless opportunities in the ever-evolving tech landscape!
-
-I'm excited about the prospect of insightful discussions and forming meaningful connections. Looking forward to engaging with you!
