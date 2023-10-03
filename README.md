@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tiationg!
+# 👋 Hi, I'm Tiationg
 
 A passionate Software Development Engineer with a drive to create exceptional applications that make a difference. With a strong track record of hands-on experience, my focus revolves around architecting scalable and efficient solutions that deliver tangible results.
 
